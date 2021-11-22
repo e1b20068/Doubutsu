@@ -10,5 +10,6 @@ abstract class AbstractArea {
     this.tate = tate;
   }
   abstract void draw();
+  
 
 }
