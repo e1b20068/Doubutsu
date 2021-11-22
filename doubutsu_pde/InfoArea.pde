@@ -9,4 +9,5 @@ class InfoArea extends AbstractArea {
     textSize(20);
     text("<- Left turn", (posX+0.3)*SQUARESIZE, (posY+0.5)*SQUARESIZE);
   }
+  
 }
